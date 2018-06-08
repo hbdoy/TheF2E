@@ -7,6 +7,11 @@
 
 如果你的答案是「Yes」那麼你來對地方了！
 
+## 作品
+### W1
+#### site: [todolist](https://hbdoy.github.io/TheF2E_w1_todolist/)
+技術細節請看: https://github.com/hbdoy/TheF2E_w1_todolist
+
 ## 修練內容
 
 1. 一週挑戰一個修練主題，總計九週，可挑選「前端工程師」、「前端設計師」的挑戰方向
